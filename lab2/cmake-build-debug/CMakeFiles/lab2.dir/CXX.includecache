@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/baotran/Desktop/Data Structure/lab2/BookList.cpp
+BookList.h
+/Users/baotran/Desktop/Data Structure/lab2/BookList.h
+sstream
+-
+
+/Users/baotran/Desktop/Data Structure/lab2/BookList.h
+string
+-
+
