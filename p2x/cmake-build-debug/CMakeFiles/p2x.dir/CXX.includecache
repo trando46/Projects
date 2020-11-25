@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/baotran/Desktop/Data Structure/p2x/BSTx.h
+sstream
+-
+queue
+-
+
+/Users/baotran/Desktop/Data Structure/p2x/p2x.cpp
+iostream
+-
+fstream
+-
+BSTx.h
+/Users/baotran/Desktop/Data Structure/p2x/BSTx.h
+
