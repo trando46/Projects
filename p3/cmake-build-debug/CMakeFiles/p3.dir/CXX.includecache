@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/baotran/Desktop/Data Structure/p3/Patient.h
+string
+-
+sstream
+-
+iomanip
+-
+
+/Users/baotran/Desktop/Data Structure/p3/PatientPriorityQueue.h
+Patient.h
+/Users/baotran/Desktop/Data Structure/p3/Patient.h
+vector
+-
+algorithm
+-
+string
+-
+cassert
+-
+
+/Users/baotran/Desktop/Data Structure/p3/p3.cpp
+PatientPriorityQueue.h
+/Users/baotran/Desktop/Data Structure/p3/PatientPriorityQueue.h
+Patient.h
+/Users/baotran/Desktop/Data Structure/p3/Patient.h
+fstream
+-
+iostream
+-
+sstream
+-
+string
+-
+
