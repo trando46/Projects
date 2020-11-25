@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/baotran/Desktop/Data Structure/p2/BST.h
+sstream
+-
+
+/Users/baotran/Desktop/Data Structure/p2/p2.cpp
+iostream
+-
+fstream
+-
+BST.h
+/Users/baotran/Desktop/Data Structure/p2/BST.h
+
