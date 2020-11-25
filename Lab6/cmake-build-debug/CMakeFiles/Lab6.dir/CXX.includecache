@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/baotran/Desktop/Data Structure/Lab6/HashTable.h
+sstream
+-
+
+/Users/baotran/Desktop/Data Structure/Lab6/lab6.cpp
+iostream
+-
+HashTable.h
+/Users/baotran/Desktop/Data Structure/Lab6/HashTable.h
+string
+-
+
