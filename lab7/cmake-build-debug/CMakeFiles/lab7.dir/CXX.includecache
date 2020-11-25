@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/baotran/Desktop/Data Structure/lab7/BST.h
+
+/Users/baotran/Desktop/Data Structure/lab7/HuffmanTree.cpp
+HuffmanTree.h
+/Users/baotran/Desktop/Data Structure/lab7/HuffmanTree.h
+string
+-
+
+/Users/baotran/Desktop/Data Structure/lab7/HuffmanTree.h
+iostream
+-
+string
+-
+queue
+-
+fstream
+-
+bitset
+-
+BST.h
+/Users/baotran/Desktop/Data Structure/lab7/BST.h
+unordered_map
+-
+
