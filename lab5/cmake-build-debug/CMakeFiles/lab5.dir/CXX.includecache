@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/baotran/Desktop/Data Structure/lab5/Sort.h
+iterator
+-
+algorithm
+-
+functional
+-
+
+/Users/baotran/Desktop/Data Structure/lab5/lab5.cpp
+iostream
+-
+vector
+-
+time.h
+-
+algorithm
+-
+Sort.h
+/Users/baotran/Desktop/Data Structure/lab5/Sort.h
+
