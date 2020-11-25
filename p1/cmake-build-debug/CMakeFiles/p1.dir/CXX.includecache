@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/baotran/Desktop/Data Structure/p1/BookList.h
+string
+-
+
+/Users/baotran/Desktop/Data Structure/p1/MemberList.h
+string
+-
+
+/Users/baotran/Desktop/Data Structure/p1/RatingList.h
+string
+-
+
+/Users/baotran/Desktop/Data Structure/p1/p1.cpp
+iostream
+-
+fstream
+-
+string
+-
+sstream
+-
+BookList.h
+/Users/baotran/Desktop/Data Structure/p1/BookList.h
+MemberList.h
+/Users/baotran/Desktop/Data Structure/p1/MemberList.h
+RatingList.h
+/Users/baotran/Desktop/Data Structure/p1/RatingList.h
+
