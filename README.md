@@ -1,5 +1,5 @@
 # Projects
-## This repository contains all the projects I did for the Graduate Certificate in Computer Science Fundamentals at Seattle University from September 2020 - June 2021. 
+## This repository contains all the projects I did for the Graduate Certificate in Computer Science Fundamentals at Seattle University from July 2020 - June 2021. 
 ## C++
 • Projects using this language can be found in any other folders that isn't Java or Python
 ## Java
