@@ -9,5 +9,5 @@ insightful place to record personal data,
 reflect on them, and track events in the
 calendar based on that information.
 
-Developers: Bao Tran Tran Do, Greg Reneris, Henry Song 
-Github link to the collab project: https://github.com/trando46/deardiary 
+• Developers: Bao Tran Tran Do, Greg Reneris, Henry Song 
+• Github link to the collab project: https://github.com/trando46/deardiary 
