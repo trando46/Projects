@@ -1,5 +1,3 @@
-# Projects
-# Projects
 ## This repository contains all the projects I worked on and have collaboration with. They are organized based on the language or framework. 
 
 ## Live Websites 
